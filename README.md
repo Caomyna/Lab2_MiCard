@@ -1,4 +1,4 @@
-# i_am_rich
+# mi_card
 
 A new Flutter project.
 
